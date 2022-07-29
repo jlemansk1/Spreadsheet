@@ -87,6 +87,6 @@ Należy podać komórkę funkcyjną oraz komórkę którą chcemy wyrzucić.
 podanej przez nas komórki funkcyjnej.
 -„-deactivate_function” Umożliwia nam dezaktywowanie funkcyjnej komórki podanej przez nas.
 -„-remove_value” Pozwala usunąć przypisaną stałą wartość z komórki podanej przez nas.
-Uwagi:
+# Uwagi:
 Należy pamiętać aby komórki nazywać dużą literą np. A3 
 Argumentów przyjmujących dodatkowe argumenty wywołania należy używać pojedynczo.
