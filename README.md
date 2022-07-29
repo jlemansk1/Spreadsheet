@@ -1,11 +1,12 @@
 # Arkusz Kalkulacyjny 
 Jakub Lemański projekt: Arkusz kalkulacyjny
+# 1 Cel projektu: 
 Celem projektu jest wykonanie arkusza kalkulacyjnego którego będzie można wyświetlić w konsoli 
 tekstowej. Mój pomysł na rozwiązanie tego zadania to stworzenie klasy „Spreadsheet” która będzie 
 odpowiedzialna za stworzenie oraz wypisanie arkusza do konsoli. Program można uruchomić przy 
 pomocy dwóch modułów: Main.py i oraz Main2.py. Różnicą stanowią pod polecenia ,(subcommands) 
 przyjmujące dodatkowe argumenty wywołania, znajdujące się w module Main2.py.
-# 1 Opis klasy „Spreadsheet”:
+# 2 Opis klasy „Spreadsheet”:
 Konstruktor: 
 Konstruktor klasy przyjmuje cztery parametry. Pierwszym „number_of_columns” jest to 
 liczba kolumn które zostaną wyświetlone w konsoli tekstowej(jako domyślną wartość została uznana 
