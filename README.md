@@ -7,7 +7,7 @@ odpowiedzialna za stworzenie oraz wypisanie arkusza do konsoli. Program można u
 pomocy dwóch modułów: Main.py i oraz Main2.py. Różnicą stanowią pod polecenia ,(subcommands) 
 przyjmujące dodatkowe argumenty wywołania, znajdujące się w module Main2.py.
 # Opis klasy „Spreadsheet”:
-1. Konstruktor: 
+1.Konstruktor: 
 Konstruktor klasy przyjmuje cztery parametry. Pierwszym „number_of_columns” jest to 
 liczba kolumn które zostaną wyświetlone w konsoli tekstowej(jako domyślną wartość została uznana 
 liczba 15 ponieważ jest to za razem najbardziej optymalna jak i wystarczająca liczba). Drugim 
@@ -19,7 +19,7 @@ przypisanej do danej komórki oraz komórek na podstawie której ta funkcja jest
 słowniku do komórki przypisana jest lista której pierwsza pozycja jest strigniem oznaczającym jaka 
 funkcja jest przypisana do tej komórki a na drugiej pozycji jest lista zawierająca komórki na podstawie 
 której funkcja jest wyliczana.
-2. Metody:
+2.Metody:  
 1.__str__ Ta metoda jest odpowiedzialna za utworzenie arkusza. Na początku przy pomocy 
 funkcji „generate_dict” z modułu „table_dict_generator.py” jest generowany słownik który 
 umożliwia nazwanie poszczególnych kolumn, dzięki tej funkcji możemy generować takie nazwy jak 
